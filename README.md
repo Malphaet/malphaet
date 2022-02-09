@@ -1,4 +1,4 @@
-### Hi there 👋
+### A little bit about my coding presence :
 
 <!--
 **Malphaet/malphaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Roxiun's github stats](https://github-readme-stats.vercel.app/api?username=malphaet&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxiun&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=malphaet&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
